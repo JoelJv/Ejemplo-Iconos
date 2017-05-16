@@ -48,3 +48,10 @@
 
     text-decoration: none;
 }
+
+/*Aqui le doy colo de fondo a cada icono*/
+.social ul li .icon-brand4 {background: #f2b3ab;}
+.social ul li .icon-brand10 {background: #e0e6fc;}
+.social ul li .icon-brand13 {background: #fffdfc;}
+.social ul li .icon-brand {background: #635f5e;}
+.social ul li .icon-brand15 {background: #aeecf2;}
